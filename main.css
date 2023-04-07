@@ -95,7 +95,7 @@ section img {
 }
 
 #contact .container h2 {
-    margin-left: 765px;
+    margin-left: 730px;
     margin-top: 25px;
 }
 
@@ -105,7 +105,7 @@ section img {
 }
 
 .contact-methods h3 {
-    margin-left: 750px;
+    margin-left: 715px;
     padding: 5px;
 }
 
@@ -116,7 +116,7 @@ form textarea {
     width: 320px;
     height: 25px;
     margin-bottom: 8px;
-    margin-left: 650px;
+    margin-left: 610px;
 }
 
 form textarea {
@@ -144,6 +144,6 @@ footer {
 }
 
 footer p {
-    margin-left: 640px;
+    margin-left: 620px;
     padding-top: 10px;
 }
