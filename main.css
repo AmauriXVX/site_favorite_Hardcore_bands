@@ -54,7 +54,7 @@ section li {
     display: inline-block;
     padding: 10px;
     margin-left: 15px;
-    margin-right: 5px;
+    margin-right: 0px;
     justify-content: space-evenly;
 }
 
@@ -76,7 +76,7 @@ section img {
 
 .categories img {
     margin-top: 60px;
-    margin-right: 35px;
+    margin-right: 0px;
     margin-left: 35px;
     height: 320px;
     padding: 15px;
