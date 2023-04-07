@@ -52,7 +52,7 @@ section h3 {
 
 section li {
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
     margin-left: 15px;
     margin-right: 0px;
     justify-content: space-evenly;
@@ -65,7 +65,7 @@ section a {
 }
 
 section img {
-    height: 240px;
+    height: 230px;
 }
 
 
@@ -106,7 +106,7 @@ section img {
 
 .contact-methods h3 {
     margin-left: 750px;
-    padding: 0px;
+    padding: 5px;
 }
 
 form input,
