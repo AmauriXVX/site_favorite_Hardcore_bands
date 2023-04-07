@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    color: white;
+    padding: 12px;
+    background-color: black;
+    justify-content: space-between;
+} 
+
+header h1,
+header nav li,
+section h2 {
+    padding: 10px;
+    margin-left: 12px;
+    font-family: 'Pirata One', cursive;
+}
+
+header nav li {
+    color:rgb(245, 244, 243);
+    display: inline;
+    font-size: 25px;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(84, 84, 84);
+}
+
+header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section .container {
+    display:inline;
+}
+
+
+section h3 {
+    padding-bottom: 3px;
+}
+
+section li {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+    justify-content: space-evenly;
+}
+
+section a {
+    text-decoration: none;
+    color: white;
+    padding-top: 5px;
+}
+
+section img {
+    height: 240px;
+}
+
+
+.categories {
+    display:inline-block;
+    justify-content: space-evenly;
+}
+
+.categories img {
+    margin-top: 60px;
+    margin-right: 35px;
+    margin-left: 35px;
+    height: 320px;
+    padding: 15px;
+    justify-content: space-around;
+}
+
+.categories h2 {
+    margin-left: 200px;
+    align-items: center;
+}
+
+
+#contact .container {
+    display: block;
+    background-color: rgb(108, 108, 108);
+}
+
+#contact .container h2 {
+    margin-left: 765px;
+    margin-top: 25px;
+}
+
+.contact-methods {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact-methods h3 {
+    margin-left: 750px;
+    padding: 5px;
+}
+
+form input,
+form button,
+form textarea {
+    display: block;
+    width: 320px;
+    height: 25px;
+    margin-bottom: 8px;
+    margin-left: 650px;
+}
+
+form textarea {
+    resize: none;
+    height: 70px;
+}
+
+form button {
+    background-color: black;
+    color: white;
+    border: none;
+    margin-bottom: 40px;
+}
+
+form button:hover {
+    background-color: rgb(40, 40, 40);
+    cursor: pointer;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 40px;
+    padding: 20 0;
+}
+
+footer p {
+    margin-left: 640px;
+    padding-top: 10px;
+}
