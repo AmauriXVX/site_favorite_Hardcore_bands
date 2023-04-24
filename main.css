@@ -147,3 +147,13 @@ footer p {
     margin-left: 600px;
     padding-top: 10px;
 }
+
+#youtube {
+    height: 25px;
+    justify-content: center;
+    padding: 8px;
+    width: 15%;
+    height: 50%;
+    margin: auto;
+    display: flex;
+}
