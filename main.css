@@ -148,12 +148,17 @@ footer p {
     padding-top: 10px;
 }
 
-#youtube {
+.redes {
     height: 25px;
-    justify-content: center;
-    padding: 8px;
+    justify-content: space-between;
+    padding: 35px 0 0 15px;
     width: 15%;
     height: 50%;
-    margin: auto;
+    margin: 0 42% 0 42%;
     display: flex;
+}
+
+.btn {
+    border-style:initial;
+    
 }
